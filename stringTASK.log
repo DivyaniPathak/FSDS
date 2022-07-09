@@ -1,0 +1,24 @@
+INFO 2022-07-07 18:36:25,041 root  The given string is this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 18:36:25,042 root  1. Try to extract data from index one to index 300 with a jump of 3
+INFO 2022-07-07 18:36:25,042 root  The output is tssyityopgmncsa alrNph rgni ni
+INFO 2022-07-07 18:36:25,042 root  The given string is this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 18:36:25,042 root  2. Try to reverse a string without using reverse function
+INFO 2022-07-07 18:36:25,042 root  The output is noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-07 18:36:25,043 root  The given string is this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 18:36:25,043 root  3. Try to split a string after conversion of entire string in uppercase
+INFO 2022-07-07 18:36:25,043 root  The output is ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-07 18:36:25,043 root  The given string is this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 18:36:25,043 root  4. try to convert the whole string into lower case
+INFO 2022-07-07 18:36:25,043 root  The output is this is my first python programming class and i am learning python string and its function
+INFO 2022-07-07 18:36:25,043 root  The given string is this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 18:36:25,043 root  5 . Try to capitalize the whole string
+INFO 2022-07-07 18:36:25,044 root  The output is This is my first python programming class and i am learning python string and its function
+INFO 2022-07-07 18:36:25,044 root  The given string is How	are	you
+INFO 2022-07-07 18:36:25,044 root  7. Try to give an example of expand tab
+INFO 2022-07-07 18:36:25,044 root  The output is How     are     you
+INFO 2022-07-07 18:36:25,044 root  The given string is      Divyani    
+INFO 2022-07-07 18:36:25,044 root  8 . Give an example of strip , lstrip and rstrip
+INFO 2022-07-07 18:36:25,044 root  The output is Divyani Divyani          Divyani
+INFO 2022-07-07 18:36:25,044 root  The given string is Hi Shruti
+INFO 2022-07-07 18:36:25,044 root  9. Replace a string charecter by another charector by taking your own example
+INFO 2022-07-07 18:36:25,044 root  The output is Hello Shruti 

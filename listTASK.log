@@ -1,0 +1,27 @@
+INFO 2022-07-05 22:13:01,056 root  #1 . Try to reverse a list
+INFO 2022-07-05 22:13:01,057 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,058 root  the output is [['ineuron', 'data science'], {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, {45, 4, 5, 23}, (3, 4, 5, 6, 7), (2, 3, 4, 5, 6), [1, 2, 3, 4]]
+INFO 2022-07-05 22:13:01,058 root  #2. try to access 234 out of this list
+INFO 2022-07-05 22:13:01,058 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+ERROR 2022-07-05 22:13:01,059 root  list index out of range
+INFO 2022-07-05 22:13:01,059 root  #2. try to access 234 out of this list using loop
+INFO 2022-07-05 22:13:01,059 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,059 root  the output is []
+INFO 2022-07-05 22:13:01,059 root  #2. try to access 456 out of this list
+INFO 2022-07-05 22:13:01,059 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,059 root  the output is data science
+INFO 2022-07-05 22:13:01,059 root  #2. try to access 456 out of this list using loop
+INFO 2022-07-05 22:13:01,059 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,060 root  the output is []
+INFO 2022-07-05 22:13:01,060 root  #2. try to extract list out of this list
+INFO 2022-07-05 22:13:01,060 root  the input list is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,060 root  the output is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-07-05 22:13:01,060 root  #5 . Try to extract 'sudh' using loop
+INFO 2022-07-05 22:13:01,060 root  the input list is [3, 4, 5, 8, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 9), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 22:13:01,060 root  the output is ['sudh']
+INFO 2022-07-05 22:13:01,060 root  #6 . Try to list all the key in dict element avaible in list
+INFO 2022-07-05 22:13:01,060 root  the input list is [3, 4, 5, 8, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 9), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 22:13:01,061 root  the output is ['key1', 234]
+INFO 2022-07-05 22:13:01,061 root  #6 . Try to list all the Values in dict element avaible in list
+INFO 2022-07-05 22:13:01,061 root  the input list is [3, 4, 5, 8, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 9), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 22:13:01,061 root  the output is [dict_values(['sudh', [23, 45, 656]])]

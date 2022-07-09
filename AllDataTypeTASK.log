@@ -1,0 +1,43 @@
+ERROR 2022-07-05 22:20:13,093 root  'module' object is not callable
+INFO 2022-07-05 22:35:13,612 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-05 22:35:13,612 root  q.3) Try to extract all the list entity
+INFO 2022-07-05 22:35:13,612 root  the output is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,488 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.3) Try to extract all the list entity
+INFO 2022-07-07 18:34:38,489 root  the output is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.4) Try to extract all the dict entity
+INFO 2022-07-07 18:34:38,489 root  the output is [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO 2022-07-07 18:34:38,489 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.3) Try to extract all the list entity
+INFO 2022-07-07 18:34:38,489 root  the output is [[1, 2, 3, 4], ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.4) Try to extract all the tuple entity
+INFO 2022-07-07 18:34:38,489 root  the output is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-07-07 18:34:38,489 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.6) Try to extract all the Numeric data it may be a part of dict key and values.
+INFO 2022-07-07 18:34:38,489 root  the output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2022-07-07 18:34:38,489 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,489 root  q.7) Try to give summation of all the numeric data.
+INFO 2022-07-07 18:34:38,490 root  the output is 156
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.8) Try to filter out all the odd values out all numeric datawhich is a part of a list.
+ERROR 2022-07-07 18:34:38,490 root  unsupported operand type(s) for %: 'list' and 'int'
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.9 Try to extract 'ineuron' out of this dataset.
+INFO 2022-07-07 18:34:38,490 root  the output is ['ineuron', 'ineuron']
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.10) Try to find out a number of occurance of all the data.
+ERROR 2022-07-07 18:34:38,490 root  'int' object has no attribute 'append'
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.11) Try to find out a number of keys in dict element.
+INFO 2022-07-07 18:34:38,490 root  the output is 5
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.12) Try to filter out all the string data.
+INFO 2022-07-07 18:34:38,490 root  the output is ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science']
+INFO 2022-07-07 18:34:38,490 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,490 root  q.14) Try to find out multiplication of all numeric value in the individual collection inside dataset
+INFO 2022-07-07 18:34:38,491 root  the output is 908605071360000
+INFO 2022-07-07 18:34:38,491 root  the input data is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-07 18:34:38,491 root  q.15) Try to unwrape all the collection inside collection and create a flat list.
+INFO 2022-07-07 18:34:38,491 root  the output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k', '1', 's', 'u', 'd', 'h', 'k', '2', 'i', 'n', 'e', 'u', 'r', 'o', 'n', 'k', '3', 'k', 'u', 'm', 'a', 'r', 3, 6, 7, 8, 'i', 'n', 'e', 'u', 'r', 'o', 'n', 'd', 'a', 't', 'a', ' ', 's', 'c', 'i', 'e', 'n', 'c', 'e']
