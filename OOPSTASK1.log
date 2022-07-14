@@ -1,0 +1,8 @@
+INFO 2022-07-14 20:52:03,096 root  this is MULTI-LEVEL inheritance example
+INFO 2022-07-14 20:52:03,097 root  ineuron student details are : NAME is Pathak , ID is 505, contact_NO is 7878787878 , and mail_id is pathak@ineurom.ai 
+INFO 2022-07-14 20:52:03,097 root   there are N number of courses available at ineuron for student. Please refer Dashboard for more details
+INFO 2022-07-14 20:52:03,097 root  there is 1 year intership provided in FSDS course
+INFO 2022-07-14 20:52:03,097 root  this is multiple level inheritance example
+INFO 2022-07-14 20:52:03,097 root  Engineer salary is equal to 15L
+INFO 2022-07-14 20:52:03,097 root  Engineer section details are : UNIT is 'OPS' and technology is 'Python'
+INFO 2022-07-14 20:52:03,097 root  Architech section details are : UNIT is GLOBAL, and technology is DATA SCIENCE

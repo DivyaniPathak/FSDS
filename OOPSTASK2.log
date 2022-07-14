@@ -1,0 +1,16 @@
+INFO 2022-07-14 20:47:05,593 root   THIS IS ABSTRACT and ENCAPSULATION CONCEPT OF OOPS
+INFO 2022-07-14 20:47:05,594 root  ineuron student details are : NAME is divyani , ID is 101, contact_NO is 4545454545 ,mail_id is divyani.pathak@gmail.com and  City is katni
+INFO 2022-07-14 20:47:05,594 root  Available courses are 1. FSDS 2. DA 3. Basic JAVA 4. BAsic python etc
+INFO 2022-07-14 20:47:05,594 root  enrolled course of student is FSDS
+INFO 2022-07-14 20:47:05,594 root  Implementing the concept of abstraction
+INFO 2022-07-14 20:47:05,594 root  Employee salary is 15L
+INFO 2022-07-14 20:47:05,594 root  Implementing the concept of ENCAPSULATION
+INFO 2022-07-14 20:47:05,594 root  Salary has been modified
+INFO 2022-07-14 20:47:05,594 root  Implementing the concept of abstraction
+INFO 2022-07-14 20:47:05,594 root  Employee salary is 20L
+INFO 2022-07-14 20:47:05,594 root  Ineuron supports is AM to PM
+INFO 2022-07-14 20:47:05,594 root  Ineuron office is located at Banglore
+INFO 2022-07-14 20:47:05,594 root  Company Logo is NO shortcut to success
+INFO 2022-07-14 20:47:05,594 root  Implementing the concept of ENCAPSULATION
+INFO 2022-07-14 20:47:05,594 root  Company Logo has been changed
+INFO 2022-07-14 20:47:05,594 root  Company Logo is Hardwork is key to success
